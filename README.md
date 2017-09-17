@@ -1,6 +1,6 @@
 # Risk-Boardgame-Probability-Model
 
-This is a barebones implementation of Nestor1's algorithm for calculating probabilities in Risk. While his implementation is intended to be used as a standalone application, this implementation is intended to be used as a module to support another application.
+This is a module for calculating probabilites in Risk. The core algorithm was created by Nestor15. While his implementation is intended to be used as a standalone application, this implementation is intended to be used as a module to support another application.
 
 ### Risk
 
