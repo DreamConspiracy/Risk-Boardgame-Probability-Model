@@ -10,4 +10,4 @@ If the attacker wins, he can then attack a new set of defending units with the r
 
 ### Implementation Notes
 
-This implementation assumes the attacking player does not stop attacking. It can then calculate the probability of success in any single attack or in any campaign, and the probabilites of winning any of the above with at least a certain number of surviving attacking troops, similar to Nestor15's implementation. See the risk.py file for more details.
+This implementation assumes the attacking player does not stop attacking. It can then calculate the probability of success in any single attack or in any campaign, and the probabilites of winning any of the above with at least a certain number of surviving attacking troops, similar to Nestor15's implementation. See the RiskSimulation.py file for more details.
